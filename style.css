@@ -1,0 +1,453 @@
+#h1_img_login{
+   font-size: 70px;
+   display: inline;
+
+}
+#lab1{
+   font-family: "B Yekan";
+   font-size: 25px;
+}
+#lab2{
+   font-family: "B Yekan";
+   font-size: 25px;
+}
+#lab3{
+   font-family: "B Yekan";
+   font-size: 18px;
+   display: inline;
+}
+#text_user{
+   border: 2px solid black;
+   border-radius: 20px;
+   font-size: 20px;
+   font-family: "B Yekan";
+}
+#pas_user{
+   border: 2px solid black;
+   border-radius: 20px;
+   font-size: 20px;
+   font-family: "B Yekan";
+
+}
+#sub_login{
+   width: 150px;
+   height: 60px;
+   border-radius: 50px;
+   font-family: "B Yekan";
+   font-size: 30px;
+}
+#sub_login:hover{
+   background-color: #ff0088;
+}
+#bodymain{
+   background-color: white;
+}
+#sub_rigester{
+   width: 150px;
+   height: 60px;
+   border-radius: 50px;
+   font-family: "B Yekan";
+   font-size: 30px;
+}
+#sub_rigester:hover{
+   background-color: #ff0088;
+}
+
+#name_user{
+border: 2px solid black;
+border-radius: 20px;
+font-size: 20px;
+font-family: "B Yekan";
+}
+#namefamil_user{
+   border: 2px solid black;
+   border-radius: 20px;
+   font-size: 20px;
+   font-family: "B Yekan";
+
+}
+#karbar_user{
+   border: 2px solid black;
+   border-radius: 20px;
+   font-size: 20px;
+   font-family: "B Yekan";
+}
+#email_user{
+   border: 2px solid black;
+   border-radius: 20px;
+   font-size: 20px;
+   font-family: "B Yekan";
+
+}
+#paspas_user{
+   border: 2px solid black;
+   border-radius: 20px;
+   font-size: 20px;
+   font-family: "B Yekan";
+}
+#paspaspas_user{
+   border: 2px solid black;
+   border-radius: 20px;
+   font-size: 20px;
+   font-family: "B Yekan";
+}
+#phone_user{
+   border: 2px solid black;
+   border-radius: 20px;
+   font-size: 20px;
+   font-family: "B Yekan";
+}
+
+#foter{
+   width: 100%;
+   height: 200px;
+   background-color: rgb(255, 92, 238);
+}
+#insta{
+   width: 30px;
+   height: 30px;
+   
+}
+
+#bodylogin{
+   background-image: url("media/img/12.jpg");
+   background-size: 100%;
+   background-repeat: no-repeat;
+
+}
+#login_btn{
+   width: 100px;
+   height: 50px;
+   border-radius: 10px;
+   font-size: 20px;
+}
+#login_btn:hover{
+   background-color: #ff0088;
+}
+#sin_body{
+   background-image: url("media/img/12.jpg");
+   background-repeat: no-repeat;
+   background-size: 100%;
+}
+                 
+
+
+#nav_h1{
+    margin-top: 5px;
+    margin-right: 37%;
+    font-size: 50px;
+    color: aliceblue;
+    margin-right: 0%;
+    margin-left: 22%;
+    font-family: initial;
+    
+}
+
+
+#login_img{
+   width: 150px;
+   height: 150px;
+
+}
+#header{
+    position: sticky;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 100%;
+    background-color: rgb(255, 92, 238);
+    padding: 0%;
+  }
+#sinup{
+
+   border: 0.5px solid rgb(0, 0, 0);
+   color: white;
+   text-decoration: none;
+   margin-right: 0%;
+   margin-left: 5px;
+}
+#sinup:hover{
+   color: chartreuse; 
+   width: 50px;
+   height: 50px;
+
+   
+}
+
+#menu, #menu1, #menu2, #menu3, #menu4{
+   margin-bottom: 10px;
+   color: white;
+   font-size: 22px;
+   text-decoration: none;
+   margin-right: 20px;
+   padding: 5px;
+   
+   
+}
+#menu1:hover{
+   color: rgb(255, 255, 255);
+   background-color: #FF1493;
+   padding: 5px;
+   border-radius: 15px;
+}
+#menu2:hover{
+   color: rgb(255, 255, 255);
+   padding: 5px;
+   background-color: #FF1493;
+   border-radius: 15px;
+}
+#menu3:hover{
+   color: rgb(255, 255, 255);
+   padding: 5px;
+   background-color: #FF1493;
+   border-radius: 15px;
+}
+#menu4:hover{
+   color: rgb(255, 255, 255);
+   padding: 5px;
+   background-color: #FF1493;
+   border-radius: 15px;
+}
+#img1{
+   width: 350px;
+   height: 280px;
+   border-style: solid;
+   margin-right: 10px;
+   border-radius: 20px;
+   margin-top: 10px;
+}
+
+
+#img3{
+   width: 350px;
+   height: 280px;
+   border-style: solid;
+   border-radius: 20px;
+   margin-right: 10px;
+   margin-top: 10px;
+}
+#img2{
+   width: 350px;
+   height: 280px;
+   border-style: solid;
+   margin-right: 10px;
+   border-radius: 20px;
+   margin-top: 10px;
+}
+#img4{
+   width: 350px;
+   height: 280px;
+   border-style: solid;
+   margin-top: 10px;
+   margin-right: 10px;
+   border-radius: 20px;
+}
+#img5{
+   width: 350px;
+   height: 280px;
+   border-style: solid;
+   border-radius: 20px;
+   margin-top: 10px;
+   margin-right: 10px;
+
+}
+#logo{
+   height: 100px;
+   width: 100px;
+   float: right;
+   padding-top: 5px;
+   padding-right: 5px;
+   border-radius: 15px;
+}
+#poster{
+   width: 35px;
+   margin-left: 5px;
+   height: 35px;
+   margin-right: 5px;
+   padding: 5px;
+}
+#poster2{
+   width: 40px;
+   height: 40px;
+   margin-right: 5px;
+   padding: 5px;  
+
+}
+#poster3{
+   width: 30px;
+   height: 30px;
+   margin-right: 5px;
+   padding: 5px;
+}
+#poster4{
+   width: 30px;
+   height: 30px;
+   margin-right: 5px;
+   padding: 5px;
+}
+#poster:hover{
+   background-color: #FF1493;
+   border-radius: 12px;
+}
+#poster1:hover{
+   background-color: #FF1493;
+   border-radius: 12px;
+}
+
+#poster2:hover{
+   background-color: #FF1493;
+   border-radius: 12px;
+}
+#poster3:hover{
+   background-color: #FF1493;
+   border-radius: 12px;
+}
+
+#poster4:hover{
+   background-color: #FF1493;
+   border-radius: 12px;
+}
+
+#box1{
+   width: 200px;
+   height: 380px;
+   border: 5px solid #ff0088 ;
+   border-radius: 30px;
+   background-color: #3498db;
+   padding-left: 1px;
+   padding-right: 1px;
+   padding-top: 1px;
+
+
+}
+#asl{
+   margin: auto;
+   padding: 10px;
+}
+#img_box1{
+   width: 200px;
+   height: 250px;
+   border-radius: 20px;
+   display: inline;
+}
+#box1_h1{
+   font-size: 40px;
+   display: inline;
+   display: inline;
+}
+#box2{
+   width: 200px;
+   height: 380px;
+   border: 5px solid #ff0088 ;
+   border-radius: 30px;
+   background-color: #e67e22;
+   padding-left: 1px;
+   padding-right: 1px;
+   padding-top: 1px;
+}
+#img_box2{
+   width: 200px;
+   height: 250px;
+   border-radius: 20px;
+   display: inline;
+}
+#box1_h2{
+   font-size: 40px;
+   display: inline;
+}
+@media only screen and (max-width: 747px) {
+
+}
+@media only screen and (max-width: 754px) {
+   #nav_h1{
+      display: block;
+   }
+   
+}
+@media only screen and (max-width: 534px) {
+   #nav_h1{
+      font-size: 45px;
+   }
+   
+}
+@media only screen and (max-width: 1000px) {
+   #nav_h1{
+      font-size: 50px;
+      margin-right: 0%;
+      margin-left: 40px;
+   }
+}
+@media only screen and (max-width: 526px) {
+   #logo{
+      width: 85px;
+      height: 85px;
+   }
+   #nav_h1{
+      font-size: 48px;
+   }
+   #poster{
+      width: 28px;
+      height: 28px;
+   }
+   #poster2{
+      width: 28px;
+      height: 28px;
+   }
+   #poster3{
+      width: 28px;
+      height: 28px;
+   }
+   #poster4{
+      width: 28px;
+      height: 28px;
+   }
+}
+@media only screen and (max-width: 498px) {
+   #nav_h1{
+      font-size: 40px;
+      margin-right: 0%;
+      margin-left: 0px;
+   }
+}
+@media only screen and (max-width: 399px) {
+   #nav_h1{
+      font-size: 30px;
+
+   }
+   #header{
+      right: 0%;
+      left: 0%;
+      margin-left: 0%;
+      margin-right: 0%;
+   }
+}
+@media only screen and (max-width: 381px) {
+
+   #header{
+      right: 0%;
+      left: 0%;
+      margin-left: 0%;
+      margin-right: 0%;
+   }
+}
+@media only screen and (max-width: 372px) {
+
+   #header{
+      right: 0%;
+      left: 0%;
+      margin-left: 0%;
+      margin-right: 0%;
+   }
+}
+@media only screen and (max-width: 363px) {
+
+   #header{
+      right: 0%;
+      left: 0%;
+      margin-left: 0%;
+      margin-right: 0%;
+   }
+}
+
+
+
